@@ -1,0 +1,11 @@
+[package]
+name = "etu"
+version = "0.1.0"
+authors = ["Kyanne Rose <dev@kyanne.email>"]
+edition = "2018"
+description = "A time tracker for the commmand line"
+homepage = "https://github.com/kyrose/etu"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
